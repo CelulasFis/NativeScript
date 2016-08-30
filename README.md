@@ -13,10 +13,10 @@ Aqui se encuentra el  código de la célula de conocimiento de NativeScript para
 
 Aqui se lista un ejemplo de algunas ramas que podrían tener dentro de un repositorio:
 
-01-loops-for
-02-loops-whiler
-03-loops-do-while
-04-loops-switch
+* 01-loops-for
+* 02-loops-whiler
+* 03-loops-do-while
+* 04-loops-switch
 
 # Autores
 
@@ -25,3 +25,11 @@ Aqui se lista un ejemplo de algunas ramas que podrían tener dentro de un reposi
 # Coordinador
 
 * [Administrador Celulas](https://github.com/celulasfisepn)
+
+# Más Info
+
+* Correo: celulafis@epn.edu.ec
+* Web: [Celula FIS EPN](https://github.com/celulasfisepn)
+* Facebook:[Celula FIS EPN](https://www.facebook.com/celulafisepn)
+* Twitter:[Celula FIS EPN](https://twitter.com/CelulaFisEpn)
+
